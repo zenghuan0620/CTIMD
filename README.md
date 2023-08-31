@@ -1,3 +1,4 @@
 # CTIMD
-run dealData.py
-run train.py
+step1:run dealData.py
+
+step2:run train.py
