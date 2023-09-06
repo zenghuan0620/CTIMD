@@ -3,4 +3,6 @@ step1:run dealData.py
 
 step2:run train.py
 
-IOC与rule可在对应文件夹中扩展
+tip：
+1，在项目中，我只上传了部分采集的IOC。可在IOC文件夹的对应文件中添加ioc。
+2，IOC与rule可在对应文件夹中扩展。
