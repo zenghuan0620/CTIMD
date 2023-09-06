@@ -1,0 +1,18 @@
+C:\Windows\Temp\storesyncsvc.dll
+C:\Windows\Temp\install.bat
+C:\Users\[redacted]\install.bat
+C:\ManageEngine\DesktopCentral_Server\jre\bin\java.exe spawning cmd.exe
+C:\ManageEngine\DesktopCentral_Server\jre\bin\java.exe spawning bitsadmin.exe
+/system32/driverswinntd_.dat
+/system32/driverswinntd.dat
+/system32/driverswincache.dat
+/system32/driversmlang.dat
+/system32/driversosver32nt.dat
+/LOCALAPPDATA/adobewind002.dat
+/LOCALAPPDATA/adobesettings.sol
+/LOCALAPPDATA/adobewinver.dat
+/LOCALAPPDATA/adobecache.dat
+/USERPROFILE/NTUSER.LOG
+/LOCALAPPDATA/FONTCACHE.DAT
+Usersuser/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/flash/player/app.exe
+APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\adobe.lnk
