@@ -1,5 +1,5 @@
 # CTIMD
-请将https://github.com/kericwy1337/Datacon2019-Malicious-Code-DataSet-Stage1的数据集分别放入对应文件夹中
+请将https://github.com/kericwy1337/Datacon2019-Malicious-Code-DataSet-Stage1 的数据集分别放入对应文件夹中
 
 step1:run dealData.py
 
